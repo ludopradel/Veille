@@ -1,5 +1,14 @@
+####2014-02-18
+* [Java - @dgageot - Web server for your test](http://blog.javabien.net/2014/02/18/a-web-server-for-your-tests/)
+* **[comprendre javascript - @thibaultj](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)**
+  * [javascript et héritage prototypal](http://naholyr.fr/2011/02/le-point-sur-javascript-et-heritage-prototypal/)
+  * [functional javascript - @N1k0](https://nicolas.perriault.net/code/2013/functional-javascript-for-crawling-the-web/)
+* [Why we left Angular](https://sourcegraph.com/blog/switching-from-angularjs-to-server-side-html)
+
+---
+
 ####2014-02-17
-* ++Mongo / Express / Angular / Node single page app[Todo list example][1] (+ 2 more tuts)
+* **Mongo / Express / Angular / Node single page app[Todo list example][1] (+ 2 more tuts)**
 * Another Mongo / Express / Node example with Jade [step by step][2] (+ Rest API)
 * BDD in JavaScript: [CucumberJS][3]
 * Intro of AngularJS in 60min [here][5]
@@ -38,4 +47,4 @@
 ---
 
 ####2014-02-03
-* ++[Software Developers reading list](http://stevewedig.com/2014/02/03/software-developers-reading-list/)
+* **[Software Developers reading list](http://stevewedig.com/2014/02/03/software-developers-reading-list/)**
