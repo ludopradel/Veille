@@ -1,3 +1,11 @@
+####2014-02-19
+* [SOAT - du bon usage de junit] (http://blog.soat.fr/2014/02/du-bon-usage-de-junit-12/)
+* [Node.JS and Docker with a side of Continuous Deployment (video)](http://vimeo.com/85864661)
+* [CodeSchool - node videos]http://node.codeschool.com/levels/1
+* [Making a Simple Game in JavaScript Step-By-Step (video)](http://vimeo.com/74008847)
+
+---
+
 ####2014-02-18
 * [Java - @dgageot - Web server for your test](http://blog.javabien.net/2014/02/18/a-web-server-for-your-tests/)
 * **[comprendre javascript - @thibaultj](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)**
