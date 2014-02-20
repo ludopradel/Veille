@@ -1,3 +1,14 @@
+####2014-02-20
+* [intro to AngularJs scopes](http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/)
+* [Intro at node.js Ryan Dahl - Video](http://www.youtube.com/watch?v=jo_B4LTHi3I&noredirect=1)
+* [Dependencies injection & other pattern - JS](http://www.mariocasciaro.me/dependency-injection-in-node-js-and-other-architectural-patterns)
+* [which js framework for you](http://readwrite.com/2014/02/06/angular-backbone-ember-best-javascript-framework-for-you#awesm=~owoTlK2ok1rVee)
+* [Basic Node.js interface pattern](http://bites.goodeggs.com/posts/export-this/)
+* [TDD & Refactoring with Lego](http://www.infoq.com/presentations/tdd-lego)
+* [VIM Plugin](https://github.com/joyent/node/wiki/Vim-Plugins)
+
+---
+
 ####2014-02-19
 * [SOAT - du bon usage de junit] (http://blog.soat.fr/2014/02/du-bon-usage-de-junit-12/)
 * [Node.JS and Docker with a side of Continuous Deployment (video)](http://vimeo.com/85864661)
