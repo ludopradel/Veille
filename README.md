@@ -1,3 +1,10 @@
+####2014-02-21
+* [Nightwatch](http://juristr.com/blog/2014/02/nightwatch-test-automation/)
+* [HTML5 Dart game - Video](http://parleys.com/play/529c10a5e4b039ad2298ca0e/chapter0/about)
+* [node.js resources](https://github.com/sergtitov/NodeJS-Learning)
+
+---
+
 ####2014-02-20
 * [intro to AngularJs scopes](http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/)
 * [Intro at node.js Ryan Dahl - Video](http://www.youtube.com/watch?v=jo_B4LTHi3I&noredirect=1)
